@@ -2,9 +2,9 @@
 
 Please click to watch the overview video.
 
-[![ScreenShot](http://roshanrshetty.github.io/Project2.1/Images/main.png)](http://roshanrshetty.github.io/Project2.1/Images/report.mp4)
+[![ScreenShot](/Images/main.png)](/Images/report.mp4)
 
-**Visualization Link:** http://roshanrshetty.github.io
+**Visualization Link:** http://dsalopek.github.io/WordCloud-D3js
 
 ## Data Preprocessing:
 
